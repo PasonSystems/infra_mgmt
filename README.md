@@ -1,2 +1,2 @@
-# Terraform
-Terraform Learning
+
+#Please see PasonEffectiveInfrastructureManagement_Report_Summer2019.pdf for all details
