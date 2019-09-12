@@ -1,2 +1,1 @@
-
-#Please see PasonEffectiveInfrastructureManagement_Report_Summer2019.pdf for all details
+Please see PasonEffectiveInfrastructureManagement_Report_Summer2019.pdf for all details
